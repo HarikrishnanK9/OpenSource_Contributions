@@ -42,7 +42,7 @@
 
 ---
 
-## CrewAI
+### CrewAI
 
 * [**CrewAI Community Profile**](https://community.crewai.com/u/harikrishnan_k/activity):
   Active contributor in the CrewAI community, sharing insights, tools, and support for developers building autonomous agent solutions.
