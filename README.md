@@ -19,6 +19,10 @@
 
 ---
 
+
 ## AgentOps-AI
--[**agentops**](https://github.com/AgentOps-AI/agentops/pull/1150):
-Fixed compatibility issue with Numba by exposing print_logger at the module level in agentops.logging.instrument_logging, ensuring it can be resolved via getattr() without affecting existing logging behavior.
+
+* [**agentops**](https://github.com/AgentOps-AI/agentops/pull/1150):
+  Fixed compatibility issue with Numba by exposing `print_logger` at the module level in `agentops.logging.instrument_logging`, ensuring it can be resolved via `getattr()` without affecting existing logging behavior.
+
+---
