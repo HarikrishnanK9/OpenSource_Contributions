@@ -13,7 +13,7 @@
 ---
 
 
-- 🔧 [**crewAI-tools**](https://github.com/crewAIInc/crewAI-tools)  
+- 📚 [**crewAI-tools**](https://github.com/crewAIInc/crewAI-tools)  
   Contributed [`FileCompressorTool`](https://github.com/crewAIInc/crewAI-tools/tree/main/crewai_tools/tools/files_compressor_tool):  
   Developed a utility tool for compressing files and directories into formats like `.zip`, `.tar`, `.tar.gz`, `.tar.bz2`, and `.tar.xz` using Python, designed to integrate smoothly with CrewAI agents.
 
@@ -23,7 +23,7 @@
 
 ### AgentOps-AI
 
-* [**agentops**](https://github.com/AgentOps-AI/agentops/pull/1150):
+- 🔧 [**agentops**](https://github.com/AgentOps-AI/agentops/pull/1150):
   Fixed compatibility issue with Numba by exposing `print_logger` at the module level in `agentops.logging.instrument_logging`, ensuring it can be resolved via `getattr()` without affecting existing logging behavior.
 
 ---
