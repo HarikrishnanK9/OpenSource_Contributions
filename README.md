@@ -39,6 +39,18 @@
 <!-- BLOG-POST-LIST:END -->
 
 ---
+
+
+## Communities
+
+---
+
+### CrewAI
+
+* [**CrewAI Community Profile**](https://community.crewai.com/u/harikrishnan_k/activity):
+  Active contributor in the CrewAI community, sharing insights, tools, and support for developers building autonomous agent solutions.
+
+---
 ## Academic Projects
 
 ### [Health Profile Analysis](https://github.com/HarikrishnanK9/Health_Profile_Analysis)
@@ -62,13 +74,9 @@ This project employs machine learning techniques to identify spam emails by anal
 
 This Power BI dashboard delivers a comprehensive 360-degree sales performance overview from the Global Superstore dataset. It visualizes key metrics—like sales by region, category, and customer segments—to support data-driven decision-making with clear and interactive insights.
 
-## Communities
 
----
+### [Global Superstore Loss Analysis Dashboard](https://github.com/HarikrishnanK9/Dashboards/blob/main/Screenshot%20(41).png)
 
-### CrewAI
+This Power BI dashboard focuses on analyzing losses within the Global Superstore dataset, helping identify unprofitable products, regions, and categories. It provides insights into discount impact, cost inefficiencies, and areas for strategic improvement.
 
-* [**CrewAI Community Profile**](https://community.crewai.com/u/harikrishnan_k/activity):
-  Active contributor in the CrewAI community, sharing insights, tools, and support for developers building autonomous agent solutions.
 
----
