@@ -41,6 +41,10 @@
 ---
 ## Academic Projects
 
+### [Health Profile Analysis](https://github.com/HarikrishnanK9/Health_Profile_Analysis)
+
+This project analyzes individual health data—such as vitals, lifestyle habits, and lab results—to generate personalized health insights and recommendations. It empowers users,doctors and medical researchers to make informed wellness decisions through data-driven analysis.
+
 ### [Pneumonia Detection, Medical Records Management, and Automated Result Notification System](https://github.com/HarikrishnanK9/Pneumonia-Detection-Medical-Records-Management-and-Automated-Result-Notification-System)  
 
 This project leverages deep learning to detect pneumonia from chest X-ray images while managing medical records efficiently. It also automates patient result notifications, improving healthcare workflows and reducing manual effort.  
@@ -50,10 +54,9 @@ This project leverages deep learning to detect pneumonia from chest X-ray images
 
 This project uses computer vision and deep learning to detect diseases in tomato leaves from image data, helping farmers and agronomists quickly spot crop health issues. It streamlines early disease diagnosis for more effective plant care interventions.  
 
-### [Health Profile Analysis](https://github.com/HarikrishnanK9/Health_Profile_Analysis)
+### [Spam Email Detection](https://github.com/HarikrishnanK9/Spam_Email_Detection)
 
-This project analyzes individual health data—such as vitals, lifestyle habits, and lab results—to generate personalized health insights and recommendations. It empowers users,doctors and medical researchers to make informed wellness decisions through data-driven analysis.
-
+This project employs machine learning techniques to identify spam emails by analyzing text features and patterns. It enhances email management by automatically classifying messages and reducing unwanted interactions.
 
 ## Communities
 
