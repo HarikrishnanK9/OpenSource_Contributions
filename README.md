@@ -58,6 +58,10 @@ This project uses computer vision and deep learning to detect diseases in tomato
 
 This project employs machine learning techniques to identify spam emails by analyzing text features and patterns. It enhances email management by automatically classifying messages and reducing unwanted interactions.
 
+### [Global Superstore Power BI Dashboard](https://github.com/HarikrishnanK9/Dashboards/blob/main/Screenshot%20(42).png)
+
+This Power BI dashboard delivers a comprehensive 360-degree sales performance overview from the Global Superstore dataset. It visualizes key metrics—like sales by region, category, and customer segments—to support data-driven decision-making with clear and interactive insights.
+
 ## Communities
 
 ---
