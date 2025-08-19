@@ -49,7 +49,6 @@ This project leverages deep learning to detect pneumonia from chest X-ray images
 ### [Tomato Leaf Disease Detection](https://github.com/HarikrishnanK9/Tomato_Leaf_Disease_Detection)  
 
 This project uses computer vision and deep learning to detect diseases in tomato leaves from image data, helping farmers and agronomists quickly spot crop health issues. It streamlines early disease diagnosis for more effective plant care interventions.  
-## Projects
 
 ### [Health Profile Analysis](https://github.com/HarikrishnanK9/Health_Profile_Analysis)
 
