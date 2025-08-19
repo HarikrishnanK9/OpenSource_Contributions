@@ -78,4 +78,10 @@ This Power BI dashboard delivers a comprehensive 360-degree sales performance ov
 
 This Power BI dashboard focuses on analyzing losses within the Global Superstore dataset, helping identify unprofitable products, regions, and categories. It provides insights into discount impact, cost inefficiencies, and areas for strategic improvement.
 
+## B Tech Final Year
+
+### [Design Analysis and Part Program Generation for Optimal Manufacturing](https://github.com/HarikrishnanK9/Design-Analysis-and-Part-Program-Generation-for-Optimal-Manufacturing)
+
+This project automates the generation of CNC part programs by analyzing design geometry and manufacturing constraints. It streamlines manufacturing workflows by generating optimized toolpaths and G-code directly from part designs.
+
 
