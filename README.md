@@ -50,7 +50,7 @@
   Active contributor in the CrewAI community, sharing insights, tools, and support for developers building autonomous agent solutions.
 
 ---
-## Academic Projects
+## Academic and Hobby Projects
 
 ### [Health Profile Analysis](https://github.com/HarikrishnanK9/Health_Profile_Analysis)
 
