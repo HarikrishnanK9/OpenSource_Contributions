@@ -51,6 +51,9 @@
 
 ---
 ## Academic and Hobby Projects
+### [RAG_Receips--->>Simple RAG with llamaindex,OpenAI,Docling and Streamlit](https://github.com/HarikrishnanK9/RAG_Receips/tree/main/rag_llamaindex_openai_docling_streamlit)
+This Repository is intended for enthusiasts who just want to explore various RAG combinations with emerging frameworks,vector dbs,etc
+Curreently Just one example is included,sooner or later you can expect more production ready implementations by handling possible edge cases in different domains,sectors.
 
 ### [Health Profile Analysis](https://github.com/HarikrishnanK9/Health_Profile_Analysis)
 
